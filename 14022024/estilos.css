@@ -1,0 +1,10 @@
+p{
+    border: solid 4px rgb(129, 197, 121);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 15px;
+    margin: 75px;
+}
+
+h1,h2{
+    border: solid 3px red;
+}
